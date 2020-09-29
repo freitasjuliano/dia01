@@ -1,0 +1,15 @@
+body{
+    background-color:#ef3f53;
+}
+
+.card {
+    max-width: 500px;
+    min-width: 350px;
+    
+}
+
+.btn:hover {
+    background-color:#ef3f53 !important;
+    transition: all 0.7s ease;
+
+}
