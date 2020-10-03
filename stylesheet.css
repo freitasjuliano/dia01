@@ -11,5 +11,16 @@ body{
 .btn:hover {
     background-color:#ef3f53 !important;
     transition: all 0.7s ease;
+    border:  #ef3f53 2.5px solid;
+    color:white;
+
+}
+
+.btn {
+    border: #bdbdbd 2.5px solid;
+    background-color: white !important;
+    font-variant: small-caps !important;
+    font-weight: bold;
+    color: #bdbdbd;
 
 }
